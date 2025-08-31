@@ -1,0 +1,14 @@
+{
+  "signupTitle": "سائن اپ کریں۔",
+  "confirmPass": "پاس ورڈ کی تصدیق کریں۔",
+  "name": {
+    "FirstName": "پہلا نام",
+    "LastName": "آخری نام",
+    "phoneNum": "فون نمبر"
+  },
+
+  "oldUser": {
+    "oldUser1": "پہلے سے ہی اکاؤنٹ ہے؟",
+    "logIn": "لاگ ان"
+  }
+}

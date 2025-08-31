@@ -1,0 +1,9 @@
+{
+  "ForgotPassTitle": "Forgot Password",
+  "RememberPass": "Remembered your password?",
+  "OTP": "One Time Password Sent to your Email",
+  "newUser": {
+    "newUser1": "New to BidDarbaar?",
+    "signUp": "Sign Up"
+  }
+}

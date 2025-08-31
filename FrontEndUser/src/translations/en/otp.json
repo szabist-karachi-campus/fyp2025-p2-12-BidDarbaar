@@ -1,0 +1,9 @@
+{
+  "OTP": "One Time Password",
+  "NewOTP": "One Time Password Sent to your Email",
+  "invalidOTP": "Invalid OTP",
+  "Resend": {
+    "Code": "Did not receive code?",
+    "Resend": "Resend"
+  }
+}

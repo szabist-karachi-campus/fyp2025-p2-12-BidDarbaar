@@ -1,0 +1,9 @@
+export { default as common } from './common.json';
+export { default as example } from './example.json';
+export { default as startup } from './startup.json';
+export { default as welcome } from './welcome.json';
+export { default as noConnection } from './noConnection.json';
+export { default as Login } from './login.json';
+export { default as Signup } from './signup.json';
+export { default as ForgotPass } from './forgotpass.json';
+export { default as Otp } from './otp.json';

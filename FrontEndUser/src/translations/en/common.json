@@ -1,0 +1,45 @@
+{
+  "appName": {
+    "full": "React Native BidDarbaarApp",
+    "initials": "RNB"
+  },
+  "textFieldLabel": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPass": "Confirm Password",
+    "ChangePass": "Change Password",
+    "PassChangeSuccess": "Password Changed Successfully",
+    "wallet": "wallet"
+  },
+  "inUse": {
+    "email": "Email already in use",
+    "phone": "Phone number already in use",
+    "password": "Password is required",
+    "passLength": "Password must be between 8 and 20 characters!",
+    "confirmPass": "Confirm password is required!",
+    "passMatch": "Passwords must match!",
+    "firstName": "First Name is required!",
+    "lastName": "Last Name is required!",
+    "validName": "Valid Name is required!",
+    "nameLength": "Name must be between 3 and 64 characters!",
+    "validEmail": "Invalid email",
+    "phoneReq": "Phone Number is required!",
+    "validPhone": "Valid Phone Number is required!",
+    "phoneLength": "Phone number can not be less than 11 characters!",
+    "error": "Please fill the form correctly!",
+    "emailReq": "Email is required!",
+    "noUser": "User not found!",
+    "validPass": "Invalid password",
+    "signinFailed": "Sign in failed!",
+    "shortPass": "Password is too short!",
+    "signinSuccess": "Sign in successful!",
+    "verifyEmail": "Please verify your email!",
+    "signupSuccess": "Sign up successfull!",
+    "phoneFormat": "Invalid Format. Use +92xxxxxxxxxx or 03xxxxxxxxx",
+    "resetSuccess": "Password reset successful!",
+    "correctOTP": "Correct OTP",
+    "emailVerified": "Your Email has been verified",
+    "xAxis": "X-Axis in use",
+    "yAxis": "Y-Axis in use"
+  }
+}

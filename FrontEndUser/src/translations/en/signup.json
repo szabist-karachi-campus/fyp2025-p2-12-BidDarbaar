@@ -1,0 +1,14 @@
+{
+  "signupTitle": "Sign Up",
+  "confirmPass": "Confirm Password",
+  "name": {
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "phoneNum": "Phone Number"
+  },
+
+  "oldUser": {
+    "oldUser1": "Already have an account?",
+    "logIn": "Login"
+  }
+}

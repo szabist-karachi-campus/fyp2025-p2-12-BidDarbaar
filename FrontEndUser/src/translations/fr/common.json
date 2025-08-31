@@ -1,0 +1,40 @@
+{
+  "appName": {
+    "full": "BidDarbaarApp React Native",
+    "initials": "RNB"
+  },
+  "textFieldLabel": {
+    "email": "ای میل",
+    "password": "پاس ورڈ",
+    "confirmPass": "پاس ورڈ کی تصدیق کریں",
+    "ChangePass": "پاس ورڈ تبدیل کریں",
+    "PassChangeSuccess": "پاس ورڈ کامیابی سے تبدیل ہو گیا"
+  },
+  "inUse": {
+    "email": "ای میل پہلے سے استعمال میں ہے",
+    "phone": "فون نمبر پہلے سے استعمال میں ہے",
+    "password": "پاس ورڈ درکار ہے",
+    "passLength": "پاس ورڈ 8 سے 20 حروف کے درمیان ہونا چاہیے!",
+    "confirmPass": "پاس ورڈ کی تصدیق کریں!",
+    "passMatch": "پاس ورڈز مماثل ہونے چاہئیں!",
+    "firstName": "پہلا نام درکار ہے!",
+    "lastName": "آخری نام درکار ہے!",
+    "validName": "درست نام درکار ہے!",
+    "nameLength": "نام 3 سے 64 حروف کے درمیان ہونا چاہیے!",
+    "validEmail": "غلط ای میل",
+    "phoneReq": "فون نمبر درکار ہے!",
+    "validPhone": "درست فون نمبر درکار ہے!",
+    "phoneLength": "فون نمبر 11 حروف سے کم نہیں ہو سکتا!",
+    "error": "براہ کرم فارم کو صحیح طریقے سے پُر کریں!",
+    "emailReq": "ای میل درکار ہے!",
+    "noUser": "صارف نہیں ملا!",
+    "validPass": "غلط پاس ورڈ",
+    "signinFailed": "سائن ان ناکام!",
+    "shortPass": "پاس ورڈ بہت چھوٹا ہے!",
+    "signinSuccess": "سائن ان کامیاب!",
+    "signupSuccess": "سائن اپ کامیاب!",
+    "phoneFormat": "غلط فارمیٹ۔ +92xxxxxxxxxx یا 03xxxxxxxxx استعمال کریں",
+    "verifyEmail": "براہ کرم اپنا ای میل تصدیق کریں!",
+    "emailVerified": "آپ کا ای میل تصدیق ہو گیا ہے"
+  }
+}
