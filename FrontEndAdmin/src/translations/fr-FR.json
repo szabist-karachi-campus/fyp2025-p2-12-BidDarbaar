@@ -1,0 +1,125 @@
+{
+  "biddarbaaradmin": {
+    "common_appName": {
+      "full": "BidDarbaarAdmin React Native",
+      "initials": "RNB"
+    },
+    "common_error": "Quelque chose s'est mal passé.",
+    "screen_example": {
+      "hello_user": "Salut, je m'appelle {{name}}",
+      "title": "Bienvenue sur Le $t(common_appName.full)",
+      "description": "Vous voulez découvrir des fonctionnalités ? Cliquez sur l'un des trois boutons en bas de l'écran. Le premier vous permet d'appeler une API REST. Le deuxième de changer la couleur du thème. Et le troisième de changer la langue"
+    },
+    "error_boundary": {
+      "title": "Oups ! Quelque chose s'est mal passé.",
+      "description": "Nous sommes désolés pour le désagrément. Veuillez réessayer plus tard.",
+      "cta": "Recharger l'écran"
+    },
+    "noConnection": {
+      "title": "Pas de connexion Internet",
+      "description": "Veuillez vérifier votre connexion Internet et réessayer."
+    },
+    "textFieldLabel": {
+      "email": "ای میل",
+      "password": "پاس ورڈ",
+      "confirmPass": "پاس ورڈ کی تصدیق کریں",
+      "ChangePass": "پاس ورڈ تبدیل کریں",
+      "PassChangeSuccess": "پاس ورڈ کامیابی سے تبدیل ہو گیا"
+    },
+    "inUse": {
+      "email": "ای میل پہلے سے استعمال میں ہے",
+      "phone": "فون نمبر پہلے سے استعمال میں ہے",
+      "password": "پاس ورڈ درکار ہے",
+      "passLength": "پاس ورڈ 8 سے 20 حروف کے درمیان ہونا چاہیے!",
+      "confirmPass": "پاس ورڈ کی تصدیق کریں!",
+      "passMatch": "پاس ورڈز مماثل ہونے چاہئیں!",
+      "name": "نام درکار ہے!",
+      "validName": "درست نام درکار ہے!",
+      "nameLength": "نام 3 سے 64 حروف کے درمیان ہونا چاہیے!",
+      "validEmail": "غلط ای میل",
+      "phoneReq": "فون نمبر درکار ہے!",
+      "validPhone": "درست فون نمبر درکار ہے!",
+      "phoneLength": "فون نمبر 11 حروف سے کم نہیں ہو سکتا!",
+      "error": "براہ کرم فارم کو صحیح طریقے سے پُر کریں!",
+      "emailReq": "ای میل درکار ہے!",
+      "noUser": "صارف نہیں ملا!",
+      "validPass": "غلط پاس ورڈ",
+      "signinFailed": "سائن ان ناکام!",
+      "shortPass": "پاس ورڈ بہت چھوٹا ہے!",
+      "signinSuccess": "سائن ان کامیاب!",
+      "signupSuccess": "سائن اپ کامیاب!",
+      "phoneFormat": "غلط فارمیٹ۔ +92xxxxxxxxxx یا 03xxxxxxxxx استعمال کریں",
+      "verifyEmail": "براہ کرم اپنا ای میل تصدیق کریں!",
+      "ntn": "NTN id درکار ہے",
+      "ntnLength": "NTN id 7 ہندسوں کا ہونا ضروری ہے",
+      "location": "مقام درکار ہے",
+      "xAxis": "X-محور",
+      "yAxis": "Y-محور",
+      "jobTitleRequired": "نوکری کا عنوان درکار ہے",
+      "invalidJobTitle": "غلط نوکری کا عنوان"
+    },
+    "LoginTitle": "لاگ ان",
+    "forgotPass": "پاس ورڈ بھول گئے۔",
+    "newUser": {
+      "newUser1": "BidDarbaar میں نئے ہیں؟",
+      "signUp": "سائن اپ کریں۔"
+    },
+    "signupTitle": "سائن اپ کریں۔",
+    "confirmPass": "پاس ورڈ کی تصدیق کریں۔",
+    "name": {
+      "name": "نام",
+      "phoneNum": "فون نمبر"
+    },
+
+    "oldUser": {
+      "oldUser1": "پہلے سے ہی اکاؤنٹ ہے؟",
+      "logIn": "لاگ ان"
+    },
+    "NewOTP": " ون ٹائم پاس ورڈ,",
+    "invalidOTP": " آپ کے ای میل پر نیا ون ٹائم پاس ورڈ بھیجا گیا",
+    "Resend": {
+      "Code": " کوڈ موصول نہیں ہوا؟",
+      "Resend": " دوبارہ بھیجیں"
+    },
+
+    "OTPverf": "ایک وقتی پاس ورڈ",
+    "ForgotPassTitle": "پاس ورڈ بھول گئے۔",
+    "RememberPass": "اپنا پاس ورڈ یاد ہے؟",
+    "jobTitle": "نوکری کا عنوان",
+    "jobTitleInvalid": "نوکری کا عنوان درست ہونا چاہیے",
+    "bottomTab": {
+      "Dashboard": "اشہارات"
+    },
+    "items": {
+      "title": "عنوان",
+      "description": "تفصیل",
+      "StartingBid": "قیمت",
+      "categories": "زمرے",
+      "StartingBidTime": "وقت",
+      "StartingBidDate": "تاریخ",
+      "BiddingDate": "تاریخ",
+      "titleMin": "عنوان کم از کم 3 حروف کا ہونا چاہیے",
+      "descriptionMin": "تفصیل کم از کم 10 حروف کی ہونی چاہیے",
+      "StartBidMin": "قیمت کم از کم 1 ہونی چاہیے"
+    },
+    "items.Req": {
+      "title": "عنوان",
+      "description": "تفصیل",
+      "categories": "زمرے",
+      "StartingBid": "قیمت",
+      "StartingBidTime": "وقت",
+      "EndingBidTime": "وقت",
+      "BiddingDate": "تاریخ"
+    },
+    "advertisement": {
+      "budget": "بجٹ",
+      "bidAmount": "بولی کی رقم",
+      "budgetError": "بجٹ کی رقم درکار ہے",
+      "bidError": "بولی کی رقم درکار ہے",
+      "error": "غلط",
+      "boostHeading": "اپنی تشہیر کو بڑھائیں",
+      "loading": "لوڈ ہو رہا ہے...",
+      "boostButton": "تشہیر کو بڑھائیں"
+    }
+  }
+}

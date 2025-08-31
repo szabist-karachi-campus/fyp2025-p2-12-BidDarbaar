@@ -1,0 +1,134 @@
+{
+  "biddarbaaradmin": {
+    "common_appName": {
+      "full": "React Native BidDarbaarAdmin",
+      "initials": "RNB"
+    },
+    "common_error": "Oops! Something went wrong.",
+    "screen_example": {
+      "hello_user": "Hi, my name is {{name}}",
+      "title": "Welcome on The $t(common_appName.full)",
+      "description": "Do you want to discover some features? Just click on one of the three buttons at the bottom of the screen. The first allows you to call a REST API. The second lets you change the theme color. And the third allows you to change the language."
+    },
+    "error_boundary": {
+      "title": "Oops! Something went wrong.",
+      "description": "We are sorry for the inconvenience. Please try again later.",
+      "cta": "Reload the screen"
+    },
+    "noConnection": {
+      "title": "No Internet Connection",
+      "description": "Please check your internet connection and try again."
+    },
+    "textFieldLabel": {
+      "email": "Email",
+      "password": "Password",
+      "confirmPass": "Confirm Password",
+      "ChangePass": "Change Password",
+      "PassChangeSuccess": "Password Changed Successfully",
+      "wallet": "wallet",
+      "ntn": "NTN"
+    },
+    "inUse": {
+      "email": "Email",
+      "phone": "Phone number already in use",
+      "password": "Password is required",
+      "passLength": "Password must be between 8 and 20 characters!",
+      "confirmPass": "Confirm password is required!",
+      "passMatch": "Passwords must match!",
+      "name": "Name",
+      "validName": "Valid Name is required!",
+      "firstName": "First Name !",
+      "lastName": "Last Name !",
+      "nameLength": "Name must be between 3 and 64 characters!",
+      "validEmail": "Invalid email",
+      "phoneReq": "Phone Number is required!",
+      "validPhone": "Valid Phone Number is required!",
+      "phoneLength": "Phone number can not be less than 11 characters!",
+      "error": "Please fill the form correctly!",
+      "emailReq": "Email is required!",
+      "noUser": "User not found!",
+      "validPass": "Invalid password",
+      "signinFailed": "Sign in failed!",
+      "shortPass": "Password is too short!",
+      "signinSuccess": "Sign in successful!",
+      "verifyEmail": "Please verify your email!",
+      "signupSuccess": "Sign up successfull!",
+      "phoneFormat": "Invalid Format. Use +92xxxxxxxxxx or 03xxxxxxxxx",
+      "resetSuccess": "Password reset successful!",
+      "correctOTP": "Correct OTP",
+      "ntn": "NTN",
+      "ntnLength": "NTN id must be 7 digits",
+      "location": "Location is required",
+      "xAxis": "X-Axis",
+      "yAxis": "Y-Axis",
+      "jobTitleRequired": "Job Title is required",
+      "invalidJobTitle": "Invalid Job Title"
+    },
+    "LoginTitle": "Login",
+    "Login": "Let`s get logged you in so you can start bidding",
+    "forgotPass": "Forgot Password?",
+    "newUser": {
+      "newUser1": "New to BidDarbaar?",
+      "signUp": "Sign Up"
+    },
+    "signupTitle": "Sign Up",
+    "confirmPass": "Confirm Password",
+    "name": {
+      "name": "Name",
+      "phoneNum": "Phone Number",
+      "FirstName": "First Name",
+      "LastName": "Last Name"
+    },
+
+    "oldUser": {
+      "oldUser1": "Already have an account?",
+      "logIn": "Login"
+    },
+    "OTP": "One Time Password",
+    "NewOTP": "New One Time Password Sent to your Email",
+    "invalidOTP": "Invalid OTP",
+    "Resend": {
+      "Code": "Did not receive code?",
+      "Resend": "Resend"
+    },
+    "ForgotPassTitle": "Forgot Password",
+    "RememberPass": "Remembered your password?",
+    "OTPverf": "One Time Password Sent to your Email",
+    "jobTitle": "Job Title",
+    "jobTitleInvalid": "Invalid Job Title",
+    "bottomTab": {
+      "Dashboard": "Adverts"
+    },
+    "items": {
+      "title": "title",
+      "description": "description",
+      "categories": "categories",
+      "StartingBid": "Starting Bid",
+      "StartingBidTime": "Starting Bid Time",
+      "EndingBidTime": "Ending Bid Time",
+      "BiddingDate": "Bidding Date",
+      "titleMin": "Title must be at least 3 characters",
+      "descriptionMin": "Description must be at least 10 characters",
+      "StartBidMin": "Starting Bid must be at least 1"
+    },
+    "items.Req": {
+      "title": "Title is required",
+      "description": "Description is required",
+      "categories": "Categories are required",
+      "StartingBid": "Starting Bid is required",
+      "StartingBidTime": "Starting Bid Time is required",
+      "EndingBidTime": "Ending Bid Time is required",
+      "BiddingDate": "Bidding Date is required"
+    },
+    "advertisement": {
+      "budget": "Budget",
+      "bidAmount": "BidAmount",
+      "budgetError": "Budget is required",
+      "bidError": "Bid Amount is required",
+      "error": "error",
+      "boostHeading": "Boost your advertisement",
+      "loading": "Loading...",
+      "boostButton": "Boost"
+    }
+  }
+}
